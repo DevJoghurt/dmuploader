@@ -1,0 +1,24 @@
+{
+  "name": "dmuploader",
+  "version": "1.0.0",
+  "description": "File upload for parse-server",
+  "main": "jquery.dmuploader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevJoghurt/dmuploader.git"
+  },
+  "keywords": [
+    "upload",
+    "jquery",
+    "parse"
+  ],
+  "author": "Johannes Hof, Daniel Morales",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevJoghurt/dmuploader/issues"
+  },
+  "homepage": "https://github.com/DevJoghurt/dmuploader#readme"
+}
