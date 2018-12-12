@@ -1,6 +1,6 @@
 {
   "name": "dmuploader",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "File upload for parse-server",
   "main": "jquery.dmuploader.js",
   "scripts": {

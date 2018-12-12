@@ -319,6 +319,12 @@
         if (type === "image/x-icon") {
             fileName = fileName + ".ico";
         }
+        if (type === "audio/mpeg") {
+            fileName = fileName + ".mp3";
+        }
+        if (type === "audio/mp3") {
+            fileName = fileName + ".mp3";
+        }
         return fileName;
     };
 
